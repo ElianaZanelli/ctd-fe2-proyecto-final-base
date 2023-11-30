@@ -7,7 +7,7 @@ export const mockResponse = [
   },
 ];
 
-export const mockResponseLisaSimpson = [
+export const mockResponseBartSimpson = [
   {
     quote:
     "Nothing you say can upset us. We're the MTV generation.",
